@@ -4,6 +4,10 @@ Projeto Integrador de Inteligência Artificial · Engenharia de Software · Univ
 
 Trabalho apresentado na 4ª edição do UMC Summit.
 
+Alunos:
+Pedro Henrique Martins de Toledo RGM 11241104679
+Lucas Ferreira Costa Moura RGM 11241100190
+
 ![Pôster apresentado no UMC Summit](poster_summit_final.png)
 
 ## Sobre o projeto
